@@ -8,7 +8,6 @@ I am a passionate learner who believes in growing a little every day. I’m deep
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
 I strive to be honest, supportive, and dependable. I’m always open to taking on responsibility and stepping into leadership roles when needed. My focus is on contributing meaningfully to any team I’m part of and learning from every experience.<br><br>
  **Welcome to my GitHub Profile btw** <br>
- Please check out my projects linked below
 
 </td>
 <td width="29.25%" align="center" valign="center">
