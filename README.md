@@ -10,7 +10,7 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 
 
 </td>
-<td width="29.2%" align="center" valign="center">
+<td width="29.25%" align="center" valign="center">
 
 <img src="https://i0.wp.com/68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif" width="100%"/>
 
