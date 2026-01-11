@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="65%" valign="top">
+<td valign="top">
 
 # Hello! I’m Thanas R
 
@@ -10,19 +10,13 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 At the heart of it all, my goal is simple: to become a responsible, fulfilled individual who can look back with pride—no regrets—and make my family proud.
 
 </td>
-<td width="35%" align="right" valign="top">
+<td valign="top" align="right">
 
-<!-- Desktop GIF -->
-<img src="https://i0.wp.com/68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif" width="100%"/>
+<img src="https://i0.wp.com/68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif" style="max-width:100%; height:auto;"/>
 
 </td>
 </tr>
 </table>
-
-<!-- Mobile fallback GIF -->
-<p align="center">
-  <img src="https://i0.wp.com/68.media.tumblr.com/b6231b4d5e3be51d0a8b302f29e628ae/tumblr_om3zookB751rnbw6mo2_r1_540.gif" width="90%"/>
-</p>
 
 
 # Tech Stack:
