@@ -2,7 +2,7 @@
 <tr>
 <td width="65%" valign="top">
 
-# Hello! I’m Thanas R
+<h1 align="center"> Hello! I’m Thanas R </h1>
 
 I am a passionate learner who believes in growing a little every day. I’m deeply interested in coding and problem-solving, and I enjoy the challenge of turning complex problems into simple, effective solutions.<br><br>
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
