@@ -11,9 +11,21 @@ While I take my work seriously, I also value creating a positive and cheerful en
 I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
 
 **Connect with me:**
-<p align="left">
- &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
-  <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
+<p style="overflow: hidden; margin: 0;">
+  <!-- Left-aligned icons -->
+  <span style="float: left;">
+    &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" />
+    </a>&nbsp;&nbsp;
+    <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;">
+      <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" />
+    </a>
+  </span>
+
+  <!-- Right-aligned profile views badge -->
+  <span style="float: right;">
+    <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
+  </span>
 </p>
 
 </td>
@@ -38,9 +50,5 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 # Projects
 **🚧 Work in progress — check back later!**
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" /> </p>
-
-
-
 
