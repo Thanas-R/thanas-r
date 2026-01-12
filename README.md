@@ -8,14 +8,20 @@ I am a passionate learner who believes in growing a little every day. I’m deep
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
 I strive to be honest, supportive, and dependable. I’m always open to taking on responsibility and stepping into leadership roles when needed. My focus is on contributing meaningfully to any team I’m part of and learning from every experience.<br><br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thanasr/" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thanas5.rd@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail" />
+<div align="left" style="display:flex; gap:6px;">
+  <a href="https://www.linkedin.com/in/thanasr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="38" height="30"
+         style="display:block; border:0;"
+         alt="linkedin"/>
   </a>
-</p>
+  <a href="mailto:thanas5.rd@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="38" height="30"
+         style="display:block; border:0;"
+         alt="gmail"/>
+  </a>
+</div>
 
 </td>
 
@@ -28,12 +34,12 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 
 # Tech Stack
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/cpp" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/c"><img src="https://skillicons.dev/icons?i=c" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/cpp"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/python"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/java"><img src="https://skillicons.dev/icons?i=java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/react"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/typescript"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/></a>
 </p>
 
 # Projects
