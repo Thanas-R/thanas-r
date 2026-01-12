@@ -10,10 +10,10 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 
 <span style="font-size:20px; font-weight:600;">Connect with me:</span>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/thanasr/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.png" width="20" height="20" />
 </a>&nbsp;&nbsp;
 <a href="mailto:thanas5.rd@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.png" width="20" height="20" />
 </a>
 
 
