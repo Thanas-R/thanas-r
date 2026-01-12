@@ -7,7 +7,6 @@
 I am a passionate learner who believes in growing a little every day. I’m genuinely interested in coding and problem-solving, and I enjoy turning complex challenges into simple, effective solutions.<br><br>
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
 I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
-
 **Connect with me:**
 <p align="left">
  &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
