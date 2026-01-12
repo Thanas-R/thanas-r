@@ -12,15 +12,22 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 **Connect with me:**
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" /></a>
-    <a href="https://discord.com/users/darkspacepirate" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=discord" width="30" height="30" /></a>
-    <a href="https://github.com/Thanas-R" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" /></a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
-</div>
+<p>
+  <img align="right" src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
+
+  <a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" />
+  </a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thanas5.rd@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
+  </a>&nbsp;
+  <a href="https://discord.com/users/darkspacepirate" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=discord" width="30" height="30" />
+  </a>&nbsp;
+  <a href="https://github.com/Thanas-R" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" width="30" height="30" />
+  </a>
+</p>
 
 </td>
 
