@@ -42,7 +42,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
- <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" width="40" height="40"/></a>
 </p>
 
 # Projects
