@@ -3,7 +3,6 @@
 <td width="65%" valign="top">
 
 # Hello! I’m Thanas R
-<br>
 I am a passionate learner who believes in growing a little every day. I’m deeply interested in coding and problem-solving, and I enjoy the challenge of turning complex problems into simple, effective solutions.<br><br>
 While I take my work seriously, I also value creating a positive and cheerful environment. I believe a good laugh can go a long way in building strong, collaborative teams.<br><br>
 I strive to be honest, supportive, and dependable. I’m always open to taking on responsibility and stepping into leadership roles when needed. My focus is on contributing meaningfully to any team I’m part of and learning from every experience.<br><br>
@@ -39,3 +38,11 @@ I strive to be honest, supportive, and dependable. I’m always open to taking o
 </p>
 
 # Projects
+chatgpt add the work in progress thingy here 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanas-r/thanas-r/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanas-r/thanas-r/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thanas-r/thanas-r/output/pacman-contribution-graph.svg">
+</picture>
+
