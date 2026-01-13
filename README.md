@@ -44,21 +44,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </p>
 
 # Projects
-<details>
-<summary>&nbsp;<h2>Mega Project</h2></summary>
 
-<div align="left" style="display:flex;align-items:center;gap:12px;margin-top:8px;">
-  <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460606520377999483/image.png?ex=69678753&is=696635d3&hm=4681b4e62c178d64e6e378b087ffe149c97c6030fe0ce7930c94d19068f27959" alt="Mega Project sneak peek" width="160" style="border-radius:8px;object-fit:cover;" />
-  <div>
-    <strong>Here’s a sneak peek of my upcoming mega project.</strong><br/>
-    A full demo, write-up and source will be published once the project is complete — stay tuned!  
-    *(Preview shown left — final project and repo will be linked when released.)*
-  </div>
-</div>
-
-</details>
-
-<details>
 <summary>&nbsp;<h2>Mini Projects</h2></summary>
 
 <div align="left" style="display:flex;flex-direction:column;gap:14px;margin-top:8px;">
@@ -68,7 +54,34 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
   <tr>
     <td valign="top" width="140">
       <img src="https://media.discordapp.net/attachments/976453896950124566/1460621725287841893/image.png?ex=6967957c&is=696643fc&hm=2348a674560cf57d2c73a432954a4e155b3519cfef0cc280285d74eb07fb41e5&=&format=webp&quality=lossless&width=1327&height=745" alt="AskBookie preview" width="120" style="border-radius:6px;object-fit:cover;" />
+    </td><details>
+<summary>&nbsp;<h2>Mega Project</h2></summary>
+
+<table>
+  <tr>
+    <td width="320" valign="middle" align="center">
+      <img 
+        src="https://cdn.discordapp.com/attachments/976453896950124566/1460606520377999483/image.png?ex=69678753&is=696635d3&hm=4681b4e62c178d64e6e378b087ffe149c97c6030fe0ce7930c94d19068f27959"
+        alt="Mega Project sneak peek"
+        width="300"
+        style="border-radius:12px;"
+      />
     </td>
+    <td valign="middle">
+      <h3 style="margin:0 0 6px 0;">Upcoming Mega Project</h3>
+      <p style="margin:0;">
+        <strong>Here’s a sneak peek of my upcoming mega project.</strong><br/><br/>
+        This project is currently under active development.  
+        A complete demo, detailed write-up, and source code will be added once everything is finalized.
+        <br/><br/>
+        <em>Stay tuned — full release coming soon.</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
     <td valign="top">
       <h3 style="margin:0">AskBookie_</h3>
       <p style="margin:6px 0 8px 0">Frontend developer for a production-ready Retrieval Augmented Generation (RAG) API. AskBookie answers document Q&A over PES University slide data — ideal for course Q&amp;A and quick doubt resolution.</p>
