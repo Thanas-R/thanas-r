@@ -134,7 +134,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
         Semester-1 Python project that recommends recipes based on the ingredients you already have — no extra shopping required.
       </p>
       <div align="right">
-        <a href="https://github.com/Thanas-R">
+        <a href="https://github.com/Thanas-R/Smart-Chef">
           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
         </a>
       </div>
