@@ -44,17 +44,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </p>
 
 # Projects
-
-<summary>&nbsp;<h2>Mini Projects</h2></summary>
-
-<div align="left" style="display:flex;flex-direction:column;gap:14px;margin-top:8px;">
-
-<!-- AskBookie -->
-<table>
-  <tr>
-    <td valign="top" width="140">
-      <img src="https://media.discordapp.net/attachments/976453896950124566/1460621725287841893/image.png?ex=6967957c&is=696643fc&hm=2348a674560cf57d2c73a432954a4e155b3519cfef0cc280285d74eb07fb41e5&=&format=webp&quality=lossless&width=1327&height=745" alt="AskBookie preview" width="120" style="border-radius:6px;object-fit:cover;" />
-    </td><details>
+<details>
 <summary>&nbsp;<h2>Mega Project</h2></summary>
 
 <table>
@@ -82,6 +72,18 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 </details>
 
+
+<details>
+<summary>&nbsp;<h2>Mini Projects</h2></summary>
+
+<div align="left" style="display:flex;flex-direction:column;gap:14px;margin-top:8px;">
+
+<!-- AskBookie -->
+<table>
+  <tr>
+    <td valign="top" width="140">
+      <img src="https://media.discordapp.net/attachments/976453896950124566/1460621725287841893/image.png?ex=6967957c&is=696643fc&hm=2348a674560cf57d2c73a432954a4e155b3519cfef0cc280285d74eb07fb41e5&=&format=webp&quality=lossless&width=1327&height=745" alt="AskBookie preview" width="120" style="border-radius:6px;object-fit:cover;" />
+    </td>
     <td valign="top">
       <h3 style="margin:0">AskBookie_</h3>
       <p style="margin:6px 0 8px 0">Frontend developer for a production-ready Retrieval Augmented Generation (RAG) API. AskBookie answers document Q&A over PES University slide data — ideal for course Q&amp;A and quick doubt resolution.</p>
@@ -193,4 +195,3 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width=300&count=4" />
   </a>
 </div>
-
