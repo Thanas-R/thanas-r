@@ -74,133 +74,148 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <details>
 <summary>&nbsp;<h2>Mini Projects</h2></summary>
 
+<div align="left" style="display:flex;flex-direction:column;gap:14px;margin-top:8px;">
+
 <!-- AskBookie -->
-<table>
+<table width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="140" valign="top">
       <a href="https://ask-bookie.vercel.app">
-        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621725287841893/image.png?ex=6967957c&is=696643fc&hm=2348a674560cf57d2c73a432954a4e155b3519cfef0cc280285d74eb07fb41e5"
-             width="300" style="border-radius:12px;" />
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621725287841893/image.png?format=webp&quality=lossless"
+             width="120" style="border-radius:6px;object-fit:cover;" />
       </a>
     </td>
-    <td valign="middle">
+    <td valign="top">
+      <h3 style="margin:0">AskBookie_</h3>
+      <p style="margin:6px 0">
+        Frontend developer for a production-ready RAG API that answers document Q&A over PES University slide data.
+      </p>
       <div align="right">
         <a href="https://github.com/Thanas-R/AskBookie_">
-          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+          <img src="https://skillicons.dev/icons?i=github" width="22" />
         </a>
       </div>
-      <h3>AskBookie_</h3>
-      <p>
-        Frontend developer for a production-ready <b>Retrieval Augmented Generation (RAG)</b> API.
-        AskBookie enables document Q&A over PES University slide data, helping students quickly resolve course-related doubts.
-      </p>
     </td>
   </tr>
 </table>
 
 <!-- ThanasOS -->
-<table>
+<table width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="140" valign="top">
       <a href="https://thanasr-old.vercel.app">
-        <img src="https://media.discordapp.net/attachments/976453896950124566/1460622129061040138/image.png?ex=696795dc&is=6966445c&hm=be4ef8d122dff9b718a178892e74e4eb60017a891ed5c773ba4516288a2d56d6"
-             width="300" style="border-radius:12px;" />
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460622129061040138/image.png?format=webp&quality=lossless"
+             width="120" style="border-radius:6px;object-fit:cover;" />
       </a>
     </td>
-    <td valign="middle">
-      <h3>ThanasOS</h3>
-      <p>
-        A macOS-themed portfolio website that mimics real desktop interactions while showcasing my projects and profile.
-        A newer portfolio version is currently in production and will launch soon.
+    <td valign="top">
+      <h3 style="margin:0">ThanasOS</h3>
+      <p style="margin:6px 0">
+        macOS-themed portfolio mimicking desktop interactions. A new portfolio is currently in production.
       </p>
+      <div align="right">
+        <a href="https://github.com/Thanas-R">
+          <img src="https://skillicons.dev/icons?i=github" width="22" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
 
 <!-- Smart Chef -->
-<table>
+<table width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="140" valign="top">
       <a href="https://smart-chef-pesu.vercel.app/">
-        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621679893151886/image.png?ex=69679571&is=696643f1&hm=eb16660e3fe1d52e60da698e1226753cc6f3df2b0d5834847b2495885883bc6b"
-             width="300" style="border-radius:12px;" />
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621679893151886/image.png?format=webp&quality=lossless"
+             width="120" style="border-radius:6px;object-fit:cover;" />
       </a>
     </td>
-    <td valign="middle">
+    <td valign="top">
+      <h3 style="margin:0">Smart Chef</h3>
+      <p style="margin:6px 0">
+        Python-based recipe recommender that suggests dishes using ingredients you already have.
+      </p>
       <div align="right">
         <a href="https://github.com/Thanas-R/AskBookie_">
-          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+          <img src="https://skillicons.dev/icons?i=github" width="22" />
         </a>
       </div>
-      <h3>Smart Chef</h3>
-      <p>
-        Semester-1 Python project that recommends recipes based on the ingredients you already have.
-        Smart Chef helps cook delicious meals without unnecessary grocery runs.
-      </p>
     </td>
   </tr>
 </table>
 
 <!-- PESU Minecraft S2 -->
-<table>
+<table width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="140" valign="top">
       <a href="https://pesu-mc.vercel.app">
-        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621611844501767/image.png?ex=69679561&is=696643e1&hm=df61e91b5219f898e8cd54d379fbf0d70e93a5584ec96f3c820b5580c26b8fde"
-             width="300" style="border-radius:12px;" />
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621611844501767/image.png?format=webp&quality=lossless"
+             width="120" style="border-radius:6px;object-fit:cover;" />
       </a>
     </td>
-    <td valign="middle">
+    <td valign="top">
+      <h3 style="margin:0">PESU Minecraft S2</h3>
+      <p style="margin:6px 0">
+        Official website for PESU Minecraft Server Season 2 — events, info, and community updates.
+      </p>
       <div align="right">
         <a href="https://github.com/Thanas-R/pesu-mc-s2">
-          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+          <img src="https://skillicons.dev/icons?i=github" width="22" />
         </a>
       </div>
-      <h3>PESU Minecraft S2</h3>
-      <p>
-        Official website for PESU Minecraft Server – Season 2.
-        Displays server details, join instructions, events, and community updates for players.
-      </p>
     </td>
   </tr>
 </table>
 
 <!-- PESU Forge -->
-<table>
+<table width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="140" valign="top">
       <a href="https://pesu-forge.vercel.app/">
-        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621705788653800/image.png?ex=69679577&is=696643f7&hm=4443f7cdad40ee882481c11f1fe112cd6ede11da687396c5ae24275335803450"
-             width="300" style="border-radius:12px;" />
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460621705788653800/image.png?format=webp&quality=lossless"
+             width="120" style="border-radius:6px;object-fit:cover;" />
       </a>
     </td>
-    <td valign="middle">
+    <td valign="top">
+      <h3 style="margin:0">PESU Forge</h3>
+      <p style="margin:6px 0">
+        AI-powered platform that converts course notes into interactive quizzes and mini-games.
+      </p>
       <div align="right">
         <a href="https://github.com/Thanas-R/PESU-Forge">
-          <img src="https://skillicons.dev/icons?i=github" width="22"/>
+          <img src="https://skillicons.dev/icons?i=github" width="22" />
         </a>
       </div>
-      <h3>PESU Forge</h3>
-      <p>
-        Converts academic notes into interactive, AI-powered educational games.
-        Designed to make learning more engaging through quizzes and playable study content.
-      </p>
     </td>
   </tr>
 </table>
 
 <!-- Contour Flow Demo -->
-<table>
+<table width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="140" valign="top">
       <a href="https://contour-flow-test.vercel.app/">
-        <div style="width:300px;height:180px;border-radius:12px;background:#f3f4f6;display:flex;align-items:center;justify-content:center;color:#9ca3af">
-          Preview
-        </div>
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460627840545325219/image.png?format=webp&quality=lossless"
+             width="120" style="border-radius:6px;object-fit:cover;" />
       </a>
     </td>
-    <td valign="middle">
-      <div align
+    <td valign="top">
+      <h3 style="margin:0">Contour Flow Demo</h3>
+      <p style="margin:6px 0">
+        Lightweight animated background demo designed for subtle motion in portfolio projects.
+      </p>
+      <div align="right">
+        <a href="https://github.com/Thanas-R/contour-flow-test">
+          <img src="https://skillicons.dev/icons?i=github" width="22" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+</details>
 
 
 <div align="center">
