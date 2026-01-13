@@ -47,10 +47,10 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 **🚧 Work in progress — check back later!**
 <br><br>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="60%" />
+  <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="62%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/1ruu5bmall8721u0hsnedbbxh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width=300&count=3" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width=300&count=4" />
   </a>
 </div>
 
