@@ -46,6 +46,27 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 # Projects
 **🚧 Work in progress — check back later!**
 <br><br>
+<details>
+<summary>Click to expand the dropdown</summary>
+
+Here is the content that is hidden by default.
+
+*   You can include lists.
+*   You can also include **bold** text or *italics*.
+*   Even [links to Google](https://google.com) work.
+
+</details>
+<details>
+<summary>Click to expand the dropdown</summary>
+
+Here is the content that is hidden by default.
+
+*   You can include lists.
+*   You can also include **bold** text or *italics*.
+*   Even [links to Google](https://google.com) work.
+
+</details>
+<br><br>
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="60%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
