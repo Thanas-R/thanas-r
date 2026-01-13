@@ -48,4 +48,10 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <br><br>
 <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" align="center" width="70%"/>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&width={300})
+<div align="center">
+  <a href="https://open.spotify.com/user/1ruu5bmall8721u0hsnedbbxh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ruu5bmall8721u0hsnedbbxh&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
