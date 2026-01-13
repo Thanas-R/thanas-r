@@ -196,7 +196,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
   <tr>
     <td width="140" valign="top">
       <a href="https://contour-flow-test.vercel.app/">
-        <img src="https://media.discordapp.net/attachments/976453896950124566/1460627840545325219/image.png?format=webp&quality=lossless"
+        <img src="https://media.discordapp.net/attachments/976453896950124566/1460627840545325219/image.png?ex=69679b2e&is=696649ae&hm=c4f3c7949de4842675b140a49418ef0bdb2b25f790affc13a90e985e47836627&=&format=webp&quality=lossless&width=1325&height=745?format=webp&quality=lossless"
              width="120" style="border-radius:6px;object-fit:cover;" />
       </a>
     </td>
