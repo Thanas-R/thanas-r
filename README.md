@@ -54,7 +54,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 <summary>&nbsp;<h2>Mini Projects</h2></summary>
 
 **🚧 Work in progress — check back later!**
-
+<a> <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460606520377999483/image.png?ex=69678753&is=696635d3&hm=4681b4e62c178d64e6e378b087ffe149c97c6030fe0ce7930c94d19068f27959" /></a>
 </details>
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="60%" />
