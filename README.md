@@ -49,7 +49,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 **🚧 Work in progress — check back later!**
 
-</details><
+</details>
 <details>
 <summary>&nbsp;<h3>Mini Projects</h3></summary>
 
