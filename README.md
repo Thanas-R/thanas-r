@@ -45,18 +45,17 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Projects
 <details>
-<summary>&nbsp;<h3>Mega Project</h3>h3></summary>
+<summary>&nbsp;<h3>Mega Project</h3></summary>
 
 **🚧 Work in progress — check back later!**
 
-</details><br><br>
+</details><
 <details>
-<summary>&nbsp;<h3>Mini Projects</h3>h3></summary>
+<summary>&nbsp;<h3>Mini Projects</h3></summary>
 
-i will write content here also dw
+**🚧 Work in progress — check back later!**
 
 </details>
-<br><br>
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="60%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
