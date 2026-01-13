@@ -45,13 +45,13 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Projects
 <details>
-<summary>&nbsp;Mega Project</summary>
+<summary>&nbsp;<h3>Mega Project</h3>h3></summary>
 
 **🚧 Work in progress — check back later!**
 
 </details><br><br>
 <details>
-<summary>&nbsp;Mini Projects</summary>
+<summary>&nbsp;<h3>Mini Projects</h3>h3></summary>
 
 i will write content here also dw
 
