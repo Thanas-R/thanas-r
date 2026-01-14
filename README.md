@@ -44,9 +44,10 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </p>
 
 # Projects
+> <p>
 > <h2>Mega Projects</h2>
-> <details>
-> <summary>&nbsp;Click Here</summary>
+<details>
+<summary>&nbsp;Click Here</summary>
  <br>
 
 
@@ -213,6 +214,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </table>
 
 </details>
+</p>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="60%" />
