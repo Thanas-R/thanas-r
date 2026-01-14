@@ -46,11 +46,11 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 # Projects
 > <h2>Mega Projects</h2>
 > <details>
-  <summary>&nbsp;Click Here</summary>
+> <summary>&nbsp;Click Here</summary>
  <br>
 
 
-<table>
+> <table>
   <tr>
     <td width="320" valign="middle" align="center">
       <img 
