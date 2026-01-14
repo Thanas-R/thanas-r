@@ -44,36 +44,36 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </p>
 
 # Projects
-> <p>
 > <h2>Mega Projects</h2>
-<details>
-<summary>&nbsp;Click Here</summary>
- <br>
+> <details>
+> <summary>&nbsp;Click Here</summary>
+>
+> <br>
+>
+> <table>
+>   <tr>
+>     <td width="320" valign="middle" align="center">
+>       <img 
+>         src="https://cdn.discordapp.com/attachments/976453896950124566/1460606520377999483/image.png?ex=69678753&is=696635d3&hm=4681b4e62c178d64e6e378b087ffe149c97c6030fe0ce7930c94d19068f27959"
+>         alt="Mega Project sneak peek"
+>         width="300"
+>         style="border-radius:12px;"
+>       />
+>     </td>
+>     <td valign="middle">
+>       <h3 style="margin:0 0 6px 0;">Upcoming Mega Project</h3>
+>       <p style="margin:0;">
+>         <strong>Here’s a sneak peek of my upcoming mega project.</strong><br/><br/>
+>         This project is currently under active development.<br/>
+>         A complete demo, detailed write-up, and source code will be added once everything is finalized.
+>         <br/><br/>
+>       </p>
+>     </td>
+>   </tr>
+> </table>
+>
+> </details>
 
-
-<table>
-  <tr>
-    <td width="320" valign="middle" align="center">
-      <img 
-        src="https://cdn.discordapp.com/attachments/976453896950124566/1460606520377999483/image.png?ex=69678753&is=696635d3&hm=4681b4e62c178d64e6e378b087ffe149c97c6030fe0ce7930c94d19068f27959"
-        alt="Mega Project sneak peek"
-        width="300"
-        style="border-radius:12px;"
-      />
-    </td>
-    <td valign="middle">
-      <h3 style="margin:0 0 6px 0;">Upcoming Mega Project</h3>
-      <p style="margin:0;">
-        <strong>Here’s a sneak peek of my upcoming mega project.</strong><br/><br/>
-        This project is currently under active development.  
-        A complete demo, detailed write-up, and source code will be added once everything is finalized.
-        <br/><br/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</details>
 
 > <h2>Mini Projects</h2>
 <details>
