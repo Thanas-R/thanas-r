@@ -50,7 +50,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
  <br>
 
 
-> <table>
+<table>
   <tr>
     <td width="320" valign="middle" align="center">
       <img 
