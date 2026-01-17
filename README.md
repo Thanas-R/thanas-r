@@ -54,7 +54,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <img 
->         src="https://cdn.discordapp.com/attachments/1411900657799139408/1461064330190782606/image.png?ex=696931b1&is=6967e031&hm=ac82c76cfe2367fcda6e602a87e1f811698cbc61cb4315f6141de27829a7c74f"
+>         src="https://cdn.discordapp.com/attachments/976453896950124566/1462072257592688680/image.png?ex=696cdc66&is=696b8ae6&hm=1c6a4c95704111fce0c65b8c33f810aba2bd017dddab0a4f8eb3b6414d32b6ce&"
 >         alt="Mega Project sneak peek"
 >         width="300"
 >         style="border-radius:12px;"
