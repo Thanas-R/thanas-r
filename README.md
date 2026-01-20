@@ -85,7 +85,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://askbookie.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460644543262359734/image.png?ex=6967aabc&is=6966593c&hm=3924817a77bc3449f03449631eee197685b576984b5b5ce2c5804f9944cf6072"
+>         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1463243464136196281/image.png?ex=69711f2b&is=696fcdab&hm=22303ebe8f2dd40002970d61527f3276271323e0e6326533b879a17a1905047d"
 >              alt="AskBookie preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -175,7 +175,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-forge.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460621705788653800/image.png?ex=69679577&is=696643f7&hm=4443f7cdad40ee882481c11f1fe112cd6ede11da687396c5ae24275335803450"
+>         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1463243577692917845/image.png?ex=69711f46&is=696fcdc6&hm=4d411aa483d5d59bd455113420d1fe31e9808559166930123095e4bd207b991f"
 >              alt="PESU Forge preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
