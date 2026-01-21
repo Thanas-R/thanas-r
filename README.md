@@ -84,6 +84,28 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
+>       <a href="https://pesu-mc.vercel.app">
+>         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1463226766532411567/image.png?ex=69710f9e&is=696fbe1e&hm=88617f6b8069ac38db45fc2beed5ff9a905aceb0f12438334d845e97676dc7e6"
+>              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
+>       </a>
+>     </td>
+>     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>       <h3 style="margin:0 0 6px 0;">PESU Minecraft S2</h3>
+>       <p style="margin:0;">
+>         Official website for PESU Minecraft Server — Season 2. Includes events, server info, join instructions, and community updates.
+>       </p>
+>       <div align="right">
+>         <a href="https://github.com/Thanas-R/PESU-MC-S2-Website">
+>           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
+>         </a>
+>       </div>
+>     </td>
+>   </tr>
+> </table>
+>
+> <table width="100%" style="margin-top:14px;">
+>   <tr>
+>     <td width="320" valign="middle" align="center">
 >       <a href="https://contour-flow-test.vercel.app/">
 >         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460997565725151455/image.png?ex=6968f383&is=6967a203&hm=3ddc9ee087e9d0c3a8a093380d5539c8c6e814f0d6c746b3b5ae75ab15effd33"
 >              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
@@ -129,29 +151,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
->       <a href="https://thanasr-old.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460622129061040138/image.png?ex=696795dc&is=6966445c&hm=be4ef8d122dff9b718a178892e74e4eb60017a891ed5c773ba4516288a2d56d6"
->              alt="ThanasOS preview" width="300" style="border-radius:12px;" />
->       </a>
->     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
->       <p style="margin:0;">
->         A macOS-themed portfolio that mimics desktop interactions while showcasing my projects and profile.
->         (A new portfolio is in production and will replace this soon.)
->       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
->     </td>
->   </tr>
-> </table>
->
-> <table width="100%" style="margin-top:14px;">
->   <tr>
->     <td width="320" valign="middle" align="center">
 >       <a href="https://smart-chef-pesu.vercel.app/">
 >         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460621679893151886/image.png?ex=69679571&is=696643f1&hm=eb16660e3fe1d52e60da698e1226753cc6f3df2b0d5834847b2495885883bc6b"
 >              alt="Smart Chef preview" width="300" style="border-radius:12px;" />
@@ -174,18 +173,19 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
->       <a href="https://pesu-mc.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1463226766532411567/image.png?ex=69710f9e&is=696fbe1e&hm=88617f6b8069ac38db45fc2beed5ff9a905aceb0f12438334d845e97676dc7e6"
->              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
+>       <a href="https://thanasr-old.vercel.app">
+>         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460622129061040138/image.png?ex=696795dc&is=6966445c&hm=be4ef8d122dff9b718a178892e74e4eb60017a891ed5c773ba4516288a2d56d6"
+>              alt="ThanasOS preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
 >     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">PESU Minecraft S2</h3>
+>       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
 >       <p style="margin:0;">
->         Official website for PESU Minecraft Server — Season 2. Includes events, server info, join instructions, and community updates.
+>         A macOS-themed portfolio that mimics desktop interactions while showcasing my projects and profile.
+>         (A new portfolio is in production and will replace this soon.)
 >       </p>
 >       <div align="right">
->         <a href="https://github.com/Thanas-R/PESU-MC-S2-Website">
+>         <a href="https://github.com/Thanas-R">
 >           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
 >         </a>
 >       </div>
