@@ -51,7 +51,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > 
 > <br>
 > <table>
->     <td width="320" valign="middle" align="center">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <img 
