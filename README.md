@@ -61,7 +61,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >       />
 >     </td>
 >     <td valign="middle">
->       <h3 style="margin:0 0 6px 0;">Upcoming Mega Project</h3> >
+>       <h3 style="margin:0 0 6px 0;">Upcoming Mega Project</h3>
 >       <p style="margin:0;">
 >         <strong>Here’s a sneak peek of my upcoming mega project.</strong><br/><br/>
 >         This project is currently under active development.<br/>
