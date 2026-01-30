@@ -107,7 +107,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-mc.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1463226766532411567/image.png?ex=69710f9e&is=696fbe1e&hm=88617f6b8069ac38db45fc2beed5ff9a905aceb0f12438334d845e97676dc7e6"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832019697700964/image.png?ex=697e2d45&is=697cdbc5&hm=0b927d47c30a76dbb43329ed019c07f2a1d2cf03b97739515e17a661e552b9af"
 >              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -129,7 +129,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://contour-flow-test.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460997565725151455/image.png?ex=6968f383&is=6967a203&hm=3ddc9ee087e9d0c3a8a093380d5539c8c6e814f0d6c746b3b5ae75ab15effd33"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832301944995931/image.png?ex=697e2d89&is=697cdc09&hm=7ded32b496e44ac7220b3857eb1e9a0bdc466a6c98298ae17fb545f2d435b367"
 >              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -151,7 +151,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://askbookie.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1463243464136196281/image.png?ex=69711f2b&is=696fcdab&hm=22303ebe8f2dd40002970d61527f3276271323e0e6326533b879a17a1905047d"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832432719200420/image.png?ex=697e2da8&is=697cdc28&hm=4a074e3c36e9e5175086fd96e1fd530a1b2096b3fc4d466b7dbb1d2ee4b4ca17"
 >              alt="AskBookie preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -174,7 +174,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://smart-chef-pesu.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460621679893151886/image.png?ex=69679571&is=696643f1&hm=eb16660e3fe1d52e60da698e1226753cc6f3df2b0d5834847b2495885883bc6b"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832486922457151/image.png?ex=697e2db5&is=697cdc35&hm=c5a774d8192f7b4e701d3a6839bf37151c434f3887c44178ed63748e99a3c8e6"
 >              alt="Smart Chef preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -196,7 +196,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://thanasr-old.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1460622129061040138/image.png?ex=696795dc&is=6966445c&hm=be4ef8d122dff9b718a178892e74e4eb60017a891ed5c773ba4516288a2d56d6"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832571517112527/image.png?ex=697e2dc9&is=697cdc49&hm=1e7cfa447a25902668863f6c66d7fad3aa2ea6714c990b443bc2f4dd86c1123c"
 >              alt="ThanasOS preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -219,7 +219,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-forge.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/976453896950124566/1463243577692917845/image.png?ex=69711f46&is=696fcdc6&hm=4d411aa483d5d59bd455113420d1fe31e9808559166930123095e4bd207b991f"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832705885962240/image.png?ex=697e2de9&is=697cdc69&hm=7d1e8d721a4b0a3c2a45b5ad3d278ef928fe8cfe116ff71ee5b74ba2cedbd052"
 >              alt="PESU Forge preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
