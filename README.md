@@ -50,7 +50,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <summary>&nbsp;Click Here</summary>
 > 
 > <br>
-> <h3 style="margin:0 0 6px 0;">Upcoming Mega Project</h3>
 > <table>
 >   <tr>
 >     <td width="320" valign="middle" align="center">
