@@ -106,7 +106,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-mc.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832019697700964/image.png?ex=697e2d45&is=697cdbc5&hm=0b927d47c30a76dbb43329ed019c07f2a1d2cf03b97739515e17a661e552b9af"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832019697700964/image.png?ex=6982ca85&is=69817905&hm=38cd19f14400f4e262aeb60940ff45ed95572c081ba5f2d251fc4cfd8ef3a01a"
 >              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -218,7 +218,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-forge.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832705885962240/image.png?ex=697e2de9&is=697cdc69&hm=7d1e8d721a4b0a3c2a45b5ad3d278ef928fe8cfe116ff71ee5b74ba2cedbd052"
+>         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832705885962240/image.png?ex=6982cb29&is=698179a9&hm=8ffae9d1576788d4344c3e7542c5a5b5513aded4496ccfeba019d4f8b520f749"
 >              alt="PESU Forge preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
