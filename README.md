@@ -13,7 +13,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 **Connect with me:**
 <p align="left">
  &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
+ <a href="yourname@thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="https://discord.com/users/darkspacepirate" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=discord" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="https://github.com/Thanas-R" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
