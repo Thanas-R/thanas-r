@@ -52,48 +52,29 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <br>
 > <table>
 >   <tr>
->     <td width="320" valign="middle" align="center">
+>     <td width="320" align="center">
 >       <img 
 >         src="https://cdn.discordapp.com/attachments/1466831985514250366/1469017003866980531/image.png?ex=69862032&is=6984ceb2&hm=b8e2b1f180a80444c7ce1a724365acee17746881b2db717434d262ab715f3710"
->         alt="Mega Project sneak peek"
 >         width="300"
 >         style="border-radius:12px;"
 >       />
 >     </td>
->     <td valign="middle">
->       <h3 style="margin:0 0 6px 0;">Upcoming Mega Project</h3>
->       <p style="margin:0;">
->         <strong>Here’s a sneak peek of my upcoming mega project.</strong><br/><br/>
->         This project is currently under active development.<br/>
->         A complete demo, detailed write-up, and source code will be added once everything is finalized.
->         <br/><br/>
->       </p>
+>     <td width="320" align="center">
+>       <img 
+>         src="https://cdn.discordapp.com/attachments/1466831985514250366/1469003356696482068/image.png?ex=6986137c&is=6984c1fc&hm=2b259b890f0e603c03ec6607cfcc48ce3b76cd98f25ad90b4e2f6ff7da796350"
+>         width="300"
+>         style="border-radius:12px;"
+>       />
+>     </td>
+>     <td width="320" align="center">
+>       <img 
+>         src="YOUR_THIRD_IMAGE_LINK_HERE"
+>         width="300"
+>         style="border-radius:12px;"
+>       />
 >     </td>
 >   </tr>
 > </table>
-> 
-> <table>
->  <tr>
->    <td width="320" valign="middle" align="center">
->      <img 
->        src="https://cdn.discordapp.com/attachments/1466831985514250366/1469003356696482068/image.png?ex=6986137c&is=6984c1fc&hm=2b259b890f0e603c03ec6607cfcc48ce3b76cd98f25ad90b4e2f6ff7da796350"
->        alt="Spheal project sneak peek"
->        width="300"
->        style="border-radius:12px;"
->      />
->    </td>
->    <td valign="middle">
->      <h3 style="margin:0 0 6px 0;">Spheal</h3>
->      <p style="margin:0;">
->        <strong>A sneak peek into Spheal — an agentic AI trip planner.</strong><br/><br/>
->        Spheal is currently under active development.<br/>
->        A full demo, detailed technical write-up, and source code will be published once the system is finalized.
->        <br/><br/>
->      </p>
->    </td>
->  </tr>
-> </table>
-> 
 > </details>
 
 > <h2>Mini Projects</h2>
