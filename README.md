@@ -106,7 +106,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-mc.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832019697700964/image.png?ex=69841c05&is=6982ca85&hm=dc7ab38720a7b3a0ed21623e36cf032142f08009fa4fa940ce71a6e09a7caf38"
+>         <img src="https://i.pinimg.com/736x/ca/75/ce/ca75ce492c74e19950adfb79daeae065.jpg"
 >              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -128,7 +128,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://contour-flow-test.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832301944995931/image.png?ex=697e2d89&is=697cdc09&hm=7ded32b496e44ac7220b3857eb1e9a0bdc466a6c98298ae17fb545f2d435b367"
+>         <img src="https://i.pinimg.com/736x/7a/be/0e/7abe0e36a36a8d67e269adfde25d448e.jpg"
 >              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -150,7 +150,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://askbookie.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832432719200420/image.png?ex=697e2da8&is=697cdc28&hm=4a074e3c36e9e5175086fd96e1fd530a1b2096b3fc4d466b7dbb1d2ee4b4ca17"
+>         <img src="https://i.pinimg.com/736x/46/1c/8b/461c8b0bcb48ce751b460465348a5129.jpg"
 >              alt="AskBookie preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -173,7 +173,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://smart-chef-pesu.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832486922457151/image.png?ex=697e2db5&is=697cdc35&hm=c5a774d8192f7b4e701d3a6839bf37151c434f3887c44178ed63748e99a3c8e6"
+>         <img src="https://i.pinimg.com/736x/11/fb/3f/11fb3fbd06194fd95d4053ee1e3b5d78.jpg"
 >              alt="Smart Chef preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -195,7 +195,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://thanasr-old.vercel.app">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832571517112527/image.png?ex=697e2dc9&is=697cdc49&hm=1e7cfa447a25902668863f6c66d7fad3aa2ea6714c990b443bc2f4dd86c1123c"
+>         <img src="https://i.pinimg.com/736x/1b/8c/17/1b8c17c034dd5dd27527308537418386.jpg"
 >              alt="ThanasOS preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -218,7 +218,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-forge.vercel.app/">
->         <img src="https://cdn.discordapp.com/attachments/1466831985514250366/1466832705885962240/image.png?ex=6982cb29&is=698179a9&hm=8ffae9d1576788d4344c3e7542c5a5b5513aded4496ccfeba019d4f8b520f749"
+>         <img src="https://i.pinimg.com/736x/c7/48/e9/c748e951f430d87470b5bbd8c2c284da.jpg"
 >              alt="PESU Forge preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
