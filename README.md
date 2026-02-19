@@ -54,21 +54,21 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" align="center">
 >       <img 
->         src="https://cdn.discordapp.com/attachments/1466831985514250366/1469017003866980531/image.png?ex=69862032&is=6984ceb2&hm=b8e2b1f180a80444c7ce1a724365acee17746881b2db717434d262ab715f3710"
+>         src="https://i.pinimg.com/736x/45/aa/40/45aa40bb58bda6f8febbf18c71a1e551.jpg"
 >         width="300"
 >         style="border-radius:12px;"
 >       />
 >     </td>
 >     <td width="320" align="center">
 >       <img 
->         src="https://cdn.discordapp.com/attachments/1466831985514250366/1469003356696482068/image.png?ex=6986137c&is=6984c1fc&hm=2b259b890f0e603c03ec6607cfcc48ce3b76cd98f25ad90b4e2f6ff7da796350"
+>         src="https://i.pinimg.com/736x/52/69/a8/5269a8d92ea9f714c1ecbb8bf47cf4c2.jpg"
 >         width="300"
 >         style="border-radius:12px;"
 >       />
 >     </td>
 >     <td width="320" align="center">
 >       <img 
->         src="YOUR_THIRD_IMAGE_LINK_HERE"
+>         src="https://i.pinimg.com/736x/e4/3a/18/e43a18793d9451b0f8e70a99e7ced14c.jpg"
 >         width="300"
 >         style="border-radius:12px;"
 >       />
