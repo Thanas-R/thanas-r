@@ -87,7 +87,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-mc.vercel.app">
->         <img src="https://i.pinimg.com/736x/ca/75/ce/ca75ce492c74e19950adfb79daeae065.jpg"
+>         <img src="Project-Images/pesu-minecraft.png"
 >              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -109,7 +109,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://contour-flow-test.vercel.app/">
->         <img src="https://i.pinimg.com/736x/7a/be/0e/7abe0e36a36a8d67e269adfde25d448e.jpg"
+>         <img src="Project-Images/contour-flow-test.png"
 >              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -131,7 +131,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://askbookie.vercel.app">
->         <img src="https://i.pinimg.com/736x/46/1c/8b/461c8b0bcb48ce751b460465348a5129.jpg"
+>         <img src="Project-Images/askbookie.png"
 >              alt="AskBookie preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -154,14 +154,14 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://smart-chef-pesu.vercel.app/">
->         <img src="https://i.pinimg.com/736x/11/fb/3f/11fb3fbd06194fd95d4053ee1e3b5d78.jpg"
+>         <img src="Project-Images/smart-chef.png"
 >              alt="Smart Chef preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
 >     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Smart Chef</h3>
 >       <p style="margin:0;">
->         An in-memory Vector Space Model using TF-IDF and cosine similarity to demonstrate ultra-fast similarity matching in Python, with recipes used as a practical application domain.
+>         An in-memory Vector Space Model using TF-IDF and cosine similarity to demonstrate ultra-fast similarity matching in Python.
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/Smart-Chef">
@@ -176,7 +176,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://thanasr-old.vercel.app">
->         <img src="https://i.pinimg.com/736x/1b/8c/17/1b8c17c034dd5dd27527308537418386.jpg"
+>         <img src="Project-Images/thanasos.png"
 >              alt="ThanasOS preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
@@ -184,7 +184,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
 >       <p style="margin:0;">
 >         A macOS-themed portfolio that mimics desktop interactions while showcasing my projects and profile.
->         (A new portfolio is in production and will replace this soon.)
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R">
@@ -199,14 +198,14 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-forge.vercel.app/">
->         <img src="https://i.pinimg.com/736x/c7/48/e9/c748e951f430d87470b5bbd8c2c284da.jpg"
+>         <img src="Project-Images/pesu-forge.png"
 >              alt="PESU Forge preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
 >     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">PESU Forge</h3>
 >       <p style="margin:0;">
->         AI-powered platform that converts course notes into interactive quizzes and mini-games to make studying more engaging.
+>         AI-powered platform that converts course notes into interactive quizzes and mini-games.
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/PESU-Forge">
@@ -218,7 +217,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > </table>
 >
 > </details>
-
 </p>
 
 <div align="center">
