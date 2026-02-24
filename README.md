@@ -175,7 +175,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
->       <a href="https://thanasr-old.vercel.app">
+>       <a href="https://thanas-os.vercel.app/">
 >         <img src="Project-Images/thanasos.png"
 >              alt="ThanasOS preview" width="300" style="border-radius:12px;" />
 >       </a>
@@ -185,11 +185,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >       <p style="margin:0;">
 >         A macOS-themed portfolio that mimics desktop interactions while showcasing my projects and profile.
 >       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
 >     </td>
 >   </tr>
 > </table>
