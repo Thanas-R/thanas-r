@@ -45,37 +45,37 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 # Projects
 
-> ## Upcoming Projects
-> <details>
-> <summary>&nbsp;Click Here</summary>
-> 
-> <br>
-> <table>
->   <tr>
->     <td width="320" align="center">
->       <img 
->         src="https://i.pinimg.com/736x/45/aa/40/45aa40bb58bda6f8febbf18c71a1e551.jpg"
->         width="300"
->         style="border-radius:12px;"
->       />
->     </td>
->     <td width="320" align="center">
->       <img 
->         src="https://i.pinimg.com/736x/52/69/a8/5269a8d92ea9f714c1ecbb8bf47cf4c2.jpg"
->         width="300"
->         style="border-radius:12px;"
->       />
->     </td>
->     <td width="320" align="center">
->       <img 
->         src="https://i.pinimg.com/736x/e4/3a/18/e43a18793d9451b0f8e70a99e7ced14c.jpg"
->         width="300"
->         style="border-radius:12px;"
->       />
->     </td>
->   </tr>
-> </table>
-> </details>
+## Upcoming Projects
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" style="border-radius:12px;" />
+      <p><strong>Nautilus</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="Project-Images/virdis.png" alt="Virdis" width="300" style="border-radius:12px;" />
+      <p><strong>Virdis</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Project-Images/thanas-portfolio.png" alt="Portfolio" width="300" style="border-radius:12px;" />
+      <p><strong>Portfolio</strong></p>
+    </td>
+    <td align="center" width="50%">
+      <img src="Project-Images/spheal.png" alt="Spheal" width="300" style="border-radius:12px;" />
+      <p><strong>Spheal</strong></p>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 > <h2>Mini Projects</h2>
 > <details>
