@@ -1,6 +1,7 @@
 <table>
 <tr>
 <td width="65%" valign="top">
+ 
 # Hello, I’m Thanas R
 
 I am a passionate learner who believes in growing a little every day. I’m genuinely interested in coding and problem-solving, and I enjoy turning complex challenges into simple, effective solutions.<br>
