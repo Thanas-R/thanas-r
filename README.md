@@ -10,6 +10,9 @@ While I take my work seriously, I also value creating a positive and cheerful en
 
 I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
 
+I strive to be honest, supportive, and reliable, taking responsibility or leading when needed while contributing and learning with the team.<br>
+
+
 **Connect with me:**
 <p align="left">
  &nbsp;<a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
