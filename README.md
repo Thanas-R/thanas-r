@@ -25,7 +25,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 </td>
 
 <td width="29.25%" align="center" valign="middle">
-  <img src="https://i.pinimg.com/control1/736x/b4/04/db/b404db0a532b8aee532d078c330901c2.jpg" width="100%"/>
+  <img src="https://i.pinimg.com/736x/e6/a6/cc/e6a6ccf08c38edd428e13fe317f978af.jpg" width="100%"/>
 </td>
 </tr>
 </table>
