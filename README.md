@@ -45,20 +45,23 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" height="45"/></a>&nbsp;&nbsp;
 </p>
 
+# Projects
+
 > ## Projects
+> 
 > <details>
 > <summary>&nbsp;Click Here</summary>
->
+> 
 > <br/>
->
-> <table width="100%" style="margin-top:14px;">
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://thanas.vercel.app">
 >         <img src="Project-Images/thanas-portfolio.png" alt="Portfolio preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Portfolio Website</h3>
 >       <p style="margin:0;">
 >         My portfolio curates a wide selection of my projects, writing, and links. Explore the site to learn about my work, find interactive demos, and uncover hidden easter eggs.
@@ -71,15 +74,15 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     </td>
 >   </tr>
 > </table>
->
-> <table width="100%" style="margin-top:14px;">
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://virdis.vercel.app">
 >         <img src="Project-Images/virdis.png" alt="Virdis preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Virdis</h3>
 >       <p style="margin:0;">
 >         A precision agriculture web platform that helps farmers and agronomists map fields, monitor crop health from satellite imagery, and receive AI-driven agronomic insights through an interactive geospatial dashboard.
@@ -92,15 +95,15 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     </td>
 >   </tr>
 > </table>
->
-> <table width="100%" style="margin-top:14px;">
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-mc.vercel.app">
 >         <img src="Project-Images/pesu-minecraft.png" alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">PESU Minecraft S2</h3>
 >       <p style="margin:0;">
 >         Official website for PESU Minecraft Server - Season 2. Includes events, server info, join instructions, and community updates.
@@ -113,15 +116,15 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     </td>
 >   </tr>
 > </table>
->
-> <table width="100%" style="margin-top:14px;">
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://contour-flow.vercel.app">
 >         <img src="Project-Images/contour-flow-test.png" alt="Contour Flow preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Contour Flow</h3>
 >       <p style="margin:0;">
 >         Lightweight animated background for subtle motion in modern React websites.
@@ -134,15 +137,15 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     </td>
 >   </tr>
 > </table>
->
-> <table width="100%" style="margin-top:14px;">
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://smart-chef-pesu.vercel.app/">
 >         <img src="Project-Images/smart-chef.png" alt="Smart Chef preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Smart Chef</h3>
 >       <p style="margin:0;">
 >         An in-memory Vector Space Model using TF-IDF and cosine similarity to demonstrate ultra-fast similarity matching in Python, with recipes used as a practical application domain.
@@ -155,15 +158,15 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     </td>
 >   </tr>
 > </table>
->
-> <table width="100%" style="margin-top:14px;">
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://thanas-os.vercel.app/">
 >         <img src="Project-Images/thanasos.png" alt="ThanasOS preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
 >       <p style="margin:0;">
 >         macOS styled interactive portfolio designed as a desktop experience in the browser.
@@ -176,15 +179,15 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     </td>
 >   </tr>
 > </table>
->
-> <table width="100%" style="margin-top:14px;">
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-forge.vercel.app/">
 >         <img src="Project-Images/pesu-forge.png" alt="PESU Forge preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">PESU Forge</h3>
 >       <p style="margin:0;">
 >         AI-powered platform that converts course notes into interactive quizzes and mini-games.
@@ -197,19 +200,28 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     </td>
 >   </tr>
 > </table>
->
+> 
 > </details>
-
+> 
 > ## Upcoming Projects
 > <details>
 > <summary><b>Click to expand</b></summary>
->
+> 
 > <br/>
->
->
-> | ![Nautilus](Project-Images/nautilus.png) | ![Spheal](Project-Images/spheal.png) |
-> | **Nautilus** | **Spheal** |
->
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
+>   <tr>
+>     <td align="center" width="50%">
+>       <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" style="border-radius:12px;" />
+>       <p style="margin:8px 0 0 0;"><strong>Nautilus</strong></p>
+>     </td>
+>     <td align="center" width="50%">
+>       <img src="Project-Images/spheal.png" alt="Spheal" width="300" style="border-radius:12px;" />
+>       <p style="margin:8px 0 0 0;"><strong>Spheal</strong></p>
+>     </td>
+>   </tr>
+> </table>
+> 
 > </details>
 
 <div align="center">
