@@ -14,7 +14,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 **Connect with me:**
 <p align="left">
- &nbsp;<a href="https://thanas.vercel.app" style="text-decoration:none;"><img src="projectimages/project.png" width="30" height="30" style="vertical-align:middle; margin-left:18px;" alt="projects" /></a>&nbsp;&nbsp;
+ &nbsp;<a href="https://thanas.vercel.app" style="text-decoration:none;"><img src="project-images/project.png" width="30" height="30" style="vertical-align:middle; margin-left:18px;" alt="projects" /></a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/thanasr/" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="https://discord.com/users/darkspacepirate" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=discord" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
