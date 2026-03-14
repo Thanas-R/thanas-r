@@ -162,7 +162,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
->       <a href="https://askbookie.vercel.app">
+>       <a href="https://ask-bookie.vercel.app">
 >         <img src="Project-Images/askbookie.png"
 >              alt="AskBookie preview" width="300" style="border-radius:12px;" />
 >       </a>
@@ -225,7 +225,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > </table>
 > 
 > </details>
->
+
 > ## Upcoming Projects
 > <details>
 > <summary><b>Click to expand</b></summary>
@@ -234,13 +234,19 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > 
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
->     <td align="left" width="50%">
->       <img src="Project-Images/nautilus.png" alt="Nautilus" width="280" style="border-radius:12px;" />
->       <p style="margin:8px 0 0 0;"><strong>Nautilus</strong></p>
+>     <td width="50%" style="padding:8px;">
+>       <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" style="border-radius:12px; display:block; margin:0;" />
 >     </td>
->     <td align="left" width="50%">
->       <img src="Project-Images/spheal.png" alt="Spheal" width="280" style="border-radius:12px;" />
->       <p style="margin:8px 0 0 0;"><strong>Spheal</strong></p>
+>     <td width="50%" style="padding:8px;">
+>       <img src="Project-Images/spheal.png" alt="Spheal" width="300" style="border-radius:12px; display:block; margin:0;" />
+>     </td>
+>   </tr>
+>   <tr>
+>     <td width="50%" style="text-align:left; padding:8px;">
+>       <strong>Nautilus</strong>
+>     </td>
+>     <td width="50%" style="text-align:left; padding:8px;">
+>       <strong>Spheal</strong>
 >     </td>
 >   </tr>
 > </table>
