@@ -120,17 +120,17 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
->       <a href="https://contour-flow.vercel.app">
->         <img src="Project-Images/contour-flow-test.png" alt="Contour Flow preview" width="300" style="border-radius:12px;" />
+>       <a href="https://thanas-os.vercel.app/">
+>         <img src="Project-Images/thanasos.png" alt="ThanasOS preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
 >     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">Contour Flow</h3>
+>       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
 >       <p style="margin:0;">
->         Lightweight animated background for subtle motion in modern React websites.
+>         macOS styled interactive portfolio designed as a desktop experience in the browser.
 >       </p>
 >       <div align="right">
->         <a href="https://github.com/Thanas-R/contour-flow">
+>         <a href="https://github.com/Thanas-R/thanas-OS">
 >           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
 >         </a>
 >       </div>
@@ -159,20 +159,43 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >   </tr>
 > </table>
 > 
+> <table width="100%">
+>   <tr>
+>     <td width="320" valign="middle" align="center">
+>       <a href="https://askbookie.vercel.app">
+>         <img src="Project-Images/askbookie.png"
+>              alt="AskBookie preview" width="300" style="border-radius:12px;" />
+>       </a>
+>     </td>
+>     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
+>       <h3 style="margin:0 0 6px 0;">AskBookie_</h3>
+>       <p style="margin:0;">
+>         Frontend developer for a production-ready Retrieval Augmented Generation (RAG) API.
+>         AskBookie provides document Q&amp;A over PES University slide data to help students resolve course doubts quickly.
+>       </p>
+>       <div align="right">
+>         <a href="https://github.com/dotpmm/askbookie-frontend">
+>           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
+>         </a>
+>       </div>
+>     </td>
+>   </tr>
+> </table>
+>
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
->       <a href="https://thanas-os.vercel.app/">
->         <img src="Project-Images/thanasos.png" alt="ThanasOS preview" width="300" style="border-radius:12px;" />
+>       <a href="https://contour-flow.vercel.app">
+>         <img src="Project-Images/contour-flow-test.png" alt="Contour Flow preview" width="300" style="border-radius:12px;" />
 >       </a>
 >     </td>
 >     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
+>       <h3 style="margin:0 0 6px 0;">Contour Flow</h3>
 >       <p style="margin:0;">
->         macOS styled interactive portfolio designed as a desktop experience in the browser.
+>         Lightweight animated background for subtle motion in modern React websites.
 >       </p>
 >       <div align="right">
->         <a href="https://github.com/Thanas-R/thanas-OS">
+>         <a href="https://github.com/Thanas-R/contour-flow">
 >           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
 >         </a>
 >       </div>
@@ -202,7 +225,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > </table>
 > 
 > </details>
-> 
+>
 > ## Upcoming Projects
 > <details>
 > <summary><b>Click to expand</b></summary>
@@ -211,12 +234,12 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > 
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
->     <td align="center" width="50%">
->       <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" style="border-radius:12px;" />
+>     <td align="left" width="50%">
+>       <img src="Project-Images/nautilus.png" alt="Nautilus" width="280" style="border-radius:12px;" />
 >       <p style="margin:8px 0 0 0;"><strong>Nautilus</strong></p>
 >     </td>
->     <td align="center" width="50%">
->       <img src="Project-Images/spheal.png" alt="Spheal" width="300" style="border-radius:12px;" />
+>     <td align="left" width="50%">
+>       <img src="Project-Images/spheal.png" alt="Spheal" width="280" style="border-radius:12px;" />
 >       <p style="margin:8px 0 0 0;"><strong>Spheal</strong></p>
 >     </td>
 >   </tr>
