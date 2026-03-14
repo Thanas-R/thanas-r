@@ -18,7 +18,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
  <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="https://discord.com/users/darkspacepirate" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=discord" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="https://github.com/Thanas-R" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
 </p>
 
@@ -45,176 +45,97 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="45" height="45"/></a>&nbsp;&nbsp;
 </p>
 
-# Projects
-
-> ## Upcoming Projects
+> # Projects
 > 
-> <details>
-> <summary><b>Click to expand</b></summary>
-> 
-> <br/>
-> 
-> <table>
->   <tr>
->     <td align="center" width="50%">
->       <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" style="border-radius:12px;" />
->       <p><strong>Nautilus</strong></p>
->     </td>
->     <td align="center" width="50%">
->       <img src="Project-Images/virdis.png" alt="Virdis" width="300" style="border-radius:12px;" />
->       <p><strong>Virdis</strong></p>
->     </td>
->   </tr>
->   <tr>
->     <td align="center" width="50%">
->       <img src="Project-Images/thanas-portfolio.png" alt="Portfolio" width="300" style="border-radius:12px;" />
->       <p><strong>Portfolio</strong></p>
->     </td>
->     <td align="center" width="50%">
->       <img src="Project-Images/spheal.png" alt="Spheal" width="300" style="border-radius:12px;" />
->       <p><strong>Spheal</strong></p>
->     </td>
->   </tr>
-> </table>
-> 
-> </details>
-
-> <h2>Mini Projects</h2>
+> ## Projects
 > <details>
 > <summary>&nbsp;Click Here</summary>
 >
-> <br>
+> <br/>
 >
-> <table width="100%" style="margin-top:14px;">
+> <table>
 >   <tr>
->     <td width="320" valign="middle" align="center">
->       <a href="https://pesu-mc.vercel.app">
->         <img src="Project-Images/pesu-minecraft.png"
->              alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
+>     <td align="center" width="50%">
+>       <a href="https://thanas.vercel.app">
+>         <img src="Project-Images/thanas-portfolio.png" alt="Portfolio" width="300" style="border-radius:12px;" />
 >       </a>
+>       <p><strong>Portfolio Website</strong></p>
+>       My portfolio curates a wide selection of my projects, writing, and links. Explore the site to learn about my work, find interactive demos, and uncover hidden easter eggs.<br>
+>       <a href="https://github.com/Thanas-R/Thanas-Portfolio">GitHub</a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">PESU Minecraft S2</h3>
->       <p style="margin:0;">
->         Official website for PESU Minecraft Server — Season 2. Includes events, server info, join instructions, and community updates.
->       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R/PESU-MC-S2-Website">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
+>     <td align="center" width="50%">
+>       <a href="https://virdis.vercel.app">
+>         <img src="Project-Images/virdis.png" alt="Virdis" width="300" style="border-radius:12px;" />
+>       </a>
+>       <p><strong>Virdis</strong></p>
+>       A precision agriculture web platform that helps farmers and agronomists map fields, monitor crop health from satellite imagery, and receive AI-driven agronomic insights through an interactive geospatial dashboard.<br>
+>       <a href="https://github.com/Thanas-R/Virdis">GitHub</a>
 >     </td>
 >   </tr>
-> </table>
->
-> <table width="100%" style="margin-top:14px;">
 >   <tr>
->     <td width="320" valign="middle" align="center">
->       <a href="https://contour-flow-test.vercel.app/">
->         <img src="Project-Images/contour-flow-test.png"
->              alt="Contour Flow preview" width="300" style="border-radius:12px;" />
->       </a>
->     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">Contour Flow Demo</h3>
->       <p style="margin:0;">
->         Lightweight animated background demo designed for subtle motion in modern portfolio websites — reusable and easy to integrate.
->       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R/contour-flow-test">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
->     </td>
->   </tr>
-> </table>
->
-> <table width="100%">
->   <tr>
->     <td width="320" valign="middle" align="center">
->       <a href="https://askbookie.vercel.app">
->         <img src="Project-Images/askbookie.png"
->              alt="AskBookie preview" width="300" style="border-radius:12px;" />
->       </a>
->     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">AskBookie_</h3>
->       <p style="margin:0;">
->         Frontend developer for a production-ready Retrieval Augmented Generation (RAG) API.
->         AskBookie provides document Q&amp;A over PES University slide data to help students resolve course doubts quickly.
->       </p>
->       <div align="right">
->         <a href="https://github.com/dotpmm/askbookie-frontend">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
->     </td>
->   </tr>
-> </table>
->
-> <table width="100%" style="margin-top:14px;">
->   <tr>
->     <td width="320" valign="middle" align="center">
->       <a href="https://smart-chef-pesu.vercel.app/">
->         <img src="Project-Images/smart-chef.png"
->              alt="Smart Chef preview" width="300" style="border-radius:12px;" />
->       </a>
->     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">Smart Chef</h3>
->       <p style="margin:0;">
->         An in-memory Vector Space Model using TF-IDF and cosine similarity to demonstrate ultra-fast similarity matching in Python.
->       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R/Smart-Chef">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
->     </td>
->   </tr>
-> </table>
->
-> <table width="100%" style="margin-top:14px;">
->   <tr>
->     <td width="320" valign="middle" align="center">
+>     <td align="center" width="50%">
 >       <a href="https://thanas-os.vercel.app/">
->         <img src="Project-Images/thanasos.png"
->              alt="ThanasOS preview" width="300" style="border-radius:12px;" />
+>         <img src="Project-Images/thanasos.png" alt="ThanasOS" width="300" style="border-radius:12px;" />
 >       </a>
+>       <p><strong>ThanasOS</strong></p>
+>       macOS styled interactive portfolio designed as a desktop experience in the browser.<br>
+>       <a href="https://github.com/Thanas-R/thanas-OS">GitHub</a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
->       <p style="margin:0;">
->         A macOS-themed portfolio that mimics desktop interactions while showcasing my projects and profile.
->       </p>
+>     <td align="center" width="50%">
+>       <a href="https://contour-flow.vercel.app">
+>         <img src="Project-Images/contour-flow-test.png" alt="Contour Flow" width="300" style="border-radius:12px;" />
+>       </a>
+>       <p><strong>Contour Flow</strong></p>
+>       Lightweight animated background for subtle motion in modern React websites.<br>
+>       <a href="https://github.com/Thanas-R/contour-flow">GitHub</a>
 >     </td>
 >   </tr>
-> </table>
->
-> <table width="100%" style="margin-top:14px;">
 >   <tr>
->     <td width="320" valign="middle" align="center">
->       <a href="https://pesu-forge.vercel.app/">
->         <img src="Project-Images/pesu-forge.png"
->              alt="PESU Forge preview" width="300" style="border-radius:12px;" />
+>     <td align="center" width="50%">
+>       <a href="https://pesu-mc.vercel.app">
+>         <img src="Project-Images/pesu-minecraft.png" alt="PESU Minecraft S2" width="300" style="border-radius:12px;" />
 >       </a>
+>       <p><strong>PESU Minecraft S2</strong></p>
+>       Official website for PESU Minecraft Server - Season 2. Includes events, server info, join instructions, and community updates.<br>
+>       <a href="https://github.com/Thanas-R/PESU-MC-S2-Website">GitHub</a>
 >     </td>
->     <td valign="middle" style="position:relative;min-height:320px;padding:16px 56px 16px 24px;vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">PESU Forge</h3>
->       <p style="margin:0;">
->         AI-powered platform that converts course notes into interactive quizzes and mini-games.
->       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R/PESU-Forge">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
+>     <td align="center" width="50%">
+>       <a href="https://smart-chef-pesu.vercel.app/">
+>         <img src="Project-Images/smart-chef.png" alt="Smart Chef" width="300" style="border-radius:12px;" />
+>       </a>
+>       <p><strong>Smart Chef</strong></p>
+>       An in-memory Vector Space Model using TF-IDF and cosine similarity to demonstrate ultra-fast similarity matching in Python.<br>
+>       <a href="https://github.com/Thanas-R/Smart-Chef">GitHub</a>
+>     </td>
+>   </tr>
+>   <tr>
+>     <td align="center" width="50%">
+>       <a href="https://pesu-forge.vercel.app/">
+>         <img src="Project-Images/pesu-forge.png" alt="PESU Forge" width="300" style="border-radius:12px;" />
+>       </a>
+>       <p><strong>PESU Forge</strong></p>
+>       AI-powered platform that converts course notes into interactive quizzes and mini-games.<br>
+>       <a href="https://github.com/Thanas-R/PESU-Forge">GitHub</a>
 >     </td>
 >   </tr>
 > </table>
 >
 > </details>
+>
+> ## Upcoming Projects
+> <details>
+> <summary><b>Click to expand</b></summary>
+>
+> <br/>
+>
+> | Nautilus | Spheal |
+> |----------|-------|
+> | ![Nautilus](Project-Images/nautilus.png) | ![Spheal](Project-Images/spheal.png) |
+> | **Nautilus** | **Spheal** |
+>
+> </details>
 </p>
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="60%" />
