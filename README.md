@@ -127,7 +127,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
 >       <p style="margin:0;">
->         macOS styled interactive portfolio designed as a desktop experience in the browser.
+>         A browser-based portfolio designed to recreate the macOS desktop experience. Visitors interact with a desktop-like interface & opening apps, moving windows, and exploring sections like About, Projects, and Journey.
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/thanas-OS">
@@ -192,7 +192,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
 >       <h3 style="margin:0 0 6px 0;">Contour Flow</h3>
 >       <p style="margin:0;">
->         Lightweight animated background for subtle motion in modern React websites.
+>         Lightweight animated background for subtle motion in modern React websites. A real-time procedural topographic map generator - no images, no SVGs, pure math rendered to canvas.
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/contour-flow">
