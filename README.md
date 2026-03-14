@@ -18,7 +18,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
  <a href="mailto:thanas5.rd@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="https://discord.com/users/darkspacepirate" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=discord" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>&nbsp;&nbsp;
  <a href="https://github.com/Thanas-R" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=github" width="30" height="30" style="vertical-align:middle; margin-left:18px;" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=thanas-r&label=Profile%20views&color=0e75b6&style=flat" alt="thanas-r" />
 </p>
 
@@ -235,10 +235,10 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="50%" style="padding:8px; text-align:center;">
->       <img src="Project-Images/nautilus.png" alt="Nautilus" width="300" height="200" style="border-radius:12px; object-fit:cover; display:block; margin:0 auto;" />
+>       <img src="Project-Images/nautilus.png" alt="Nautilus" style="width:100%; max-width:300px; height:auto; border-radius:12px; display:block; margin:0 auto;" />
 >     </td>
 >     <td width="50%" style="padding:8px; text-align:center;">
->       <img src="Project-Images/spheal.png" alt="Spheal" width="300" height="200" style="border-radius:12px; object-fit:cover; display:block; margin:0 auto;" />
+>       <img src="Project-Images/spheal.png" alt="Spheal" style="width:100%; max-width:300px; height:auto; border-radius:12px; display:block; margin:0 auto;" />
 >     </td>
 >   </tr>
 >   <tr>
