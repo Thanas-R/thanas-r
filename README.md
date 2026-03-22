@@ -173,11 +173,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >         Frontend developer for a production-ready Retrieval Augmented Generation (RAG) API.
 >         AskBookie provides document Q&amp;A over PES University slide data to help students resolve course doubts quickly.
 >       </p>
->       <div align="right">
->         <a href="https://github.com/dotpmm/askbookie-frontend">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
 >     </td>
 >   </tr>
 > </table>
