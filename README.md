@@ -88,6 +88,27 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
+>       <a href="https://thanas-os.vercel.app/">
+>         <img src="Project-Images/thanasos.png" alt="ThanasOS preview" width="300" style="border-radius:12px;" />
+>       </a>
+>     </td>
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
+>       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
+>       <p style="margin:0;">
+>         ThanasOS is a faithful, fully interactive recreation of macOS, rebuilt from the ground up for the browser.
+>       </p>
+>       <div align="right">
+>         <a href="https://github.com/Thanas-R/thanas-OS">
+>           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
+>         </a>
+>       </div>
+>     </td>
+>   </tr>
+> </table>
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
+>   <tr>
+>     <td width="320" valign="middle" align="center">
 >       <a href="https://pesu-mc.vercel.app">
 >         <img src="Project-Images/pesu-minecraft.png" alt="PESU Minecraft preview" width="300" style="border-radius:12px;" />
 >       </a>
@@ -99,27 +120,6 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 >       </p>
 >       <div align="right">
 >         <a href="https://github.com/Thanas-R/PESU-MC-S2-Website">
->           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
->         </a>
->       </div>
->     </td>
->   </tr>
-> </table>
-> 
-> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
->   <tr>
->     <td width="320" valign="middle" align="center">
->       <a href="https://thanas-os.vercel.app/">
->         <img src="Project-Images/thanasos.png" alt="ThanasOS preview" width="300" style="border-radius:12px;" />
->       </a>
->     </td>
->     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
->       <h3 style="margin:0 0 6px 0;">ThanasOS</h3>
->       <p style="margin:0;">
->         A browser-based portfolio designed to recreate the macOS desktop experience. Visitors interact with a desktop-like interface & opening apps, moving windows, and exploring sections like About, Projects, and Journey.
->       </p>
->       <div align="right">
->         <a href="https://github.com/Thanas-R/thanas-OS">
 >           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
 >         </a>
 >       </div>
