@@ -130,6 +130,48 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 > <table width="100%" style="margin-top:14px; border-collapse:collapse;">
 >   <tr>
 >     <td width="320" valign="middle" align="center">
+>       <a href="https://huggingface.co/spaces/pesu-dev/askpesu-dev">
+>         <img src="Project-Images/askpesu.png" alt="AskPESU preview" width="300" style="border-radius:12px;" />
+>       </a>
+>     </td>
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
+>       <h3 style="margin:0 0 6px 0;">AskPESU</h3>
+>       <p style="margin:0;">
+>         askPESU is a RAG pipeline for question answering about PES University. Built by the PESU Dev team as a continuously updated knowledge base for current and prospective students, sourced from verified r/PESU discussions, FAQs and posts. I built the frontend and design.
+>       </p>
+>       <div align="right">
+>         <a href="https://github.com/pesu-dev/ask-pesu">
+>           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
+>         </a>
+>       </div>
+>     </td>
+>   </tr>
+> </table>
+>
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
+>   <tr>
+>     <td width="320" valign="middle" align="center">
+>       <a href="https://odintree.vercel.app/">
+>         <img src="Project-Images/project-odintree.png" alt="OdinTree preview" width="300" style="border-radius:12px;" />
+>       </a>
+>     </td>
+>     <td valign="middle" style="position:relative; min-height:320px; padding:16px; vertical-align:middle;">
+>       <h3 style="margin:0 0 6px 0;">Odin Tree</h3>
+>       <p style="margin:0;">
+>         Odin is a visual repository explorer that turns any public GitHub project into a navigable graph, a searchable knowledge base, and a set of AI-assisted reports.
+>       </p>
+>       <div align="right">
+>         <a href="https://github.com/Thanas-R/OdinTree">
+>           <img src="https://skillicons.dev/icons?i=github" width="28" alt="github" />
+>         </a>
+>       </div>
+>     </td>
+>   </tr>
+> </table>
+> 
+> <table width="100%" style="margin-top:14px; border-collapse:collapse;">
+>   <tr>
+>     <td width="320" valign="middle" align="center">
 >       <a href="https://smart-chef-pesu.vercel.app/">
 >         <img src="Project-Images/smart-chef.png" alt="Smart Chef preview" width="300" style="border-radius:12px;" />
 >       </a>
