@@ -32,6 +32,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
 
 
 # Tech Stack
+
 <p align="left">
   <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="45"></a>
   <img width="10">
@@ -54,9 +55,7 @@ I strive to be honest, supportive, and reliable, taking responsibility or leadin
   <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" width="45"></a>
   <img width="10">
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45"></a>
-
-  <br><br>
-
+  <img width="10">
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"></a>
   <img width="10">
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45"></a>
